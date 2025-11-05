@@ -1,4 +1,5 @@
 # Real-Time Order Book Visualizer
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-blue?style=for-the-badge&logo=vercel)](https://twocents-kappa.vercel.app/)
 
 A high-performance, real-time stock order book visualizer built with Next.js, TypeScript, and Tailwind CSS. This application connects to the live Binance WebSocket API to stream real-time market data for BTC/USDT trading pairs.
 
